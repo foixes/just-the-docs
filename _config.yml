@@ -183,7 +183,4 @@ compress_html:
   profile: false
   # ignore:
   #   envs: all
-
-# Enable table of contents in sidebar
-toc: true
-sidebar_enabled: true
+sidebar_width: 100px
